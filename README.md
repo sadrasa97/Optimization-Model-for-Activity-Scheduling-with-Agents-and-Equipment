@@ -78,10 +78,10 @@ This will output the agent assignments, equipment allocations, and time allocati
 ## Project Structure
 
 ```
-├── generate_data.py     # Script for generating synthetic input data
-├── solve_model.py       # Script for defining and solving the optimization model
-├── requirements.txt     # Python package dependencies
-└── README.md            # Project documentation
+├── generate_data.py    
+├── solve_model.py     
+├── requirements.txt     
+└── README.md           
 ```
 
 ---
