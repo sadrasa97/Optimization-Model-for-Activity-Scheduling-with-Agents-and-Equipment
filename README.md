@@ -45,7 +45,7 @@ pip install pandas numpy pyomo xlsxwriter
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/optimization-scheduling.git
+   git clone https://github.com/sadrasa97/optimization-scheduling.git
    ```
 2. Navigate to the project directory:
    ```bash
